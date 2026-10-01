@@ -1,0 +1,295 @@
+{
+ "about": [
+  "What the build region renders, asked in the worlds its views ask it, each handed what the region declares it reads."
+ ],
+ "worlds": {
+  "root:obligations": {
+   "lines": [
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/declaration shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/include shape=tsconfig.json value=src",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/incremental shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/isolatedModules shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/module shape=tsconfig.json value=Node16",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/outDir shape=tsconfig.json value=dist",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/removeComments shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/rewriteRelativeImportExtensions shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/rootDir shape=tsconfig.json value=src",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/strict shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/target shape=tsconfig.json value=ES2022",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/tsBuildInfoFile shape=tsconfig.json value=.cache/tsbuildinfo",
+    "bound-lock/1 at=witness:the-build-was-typed-and-the-examples-compiled by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/verbatimModuleSyntax shape=tsconfig.json value=true",
+    "bound-lock/1 about=\"the spaces a JSON page indents each level by\" at=witness:a-json-indent-spelled-in-code by=owner form=alphabet measure=id role=writes scope=form/style/json/indent value=2"
+   ],
+   "regions": {}
+  },
+  "root:topos-node": {
+   "lines": [
+    "bound-lock/1 at=witness:a-capsule-that-kept-its-own-accessors by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/allowImportingTsExtensions shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/declaration shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/esModuleInterop shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/forceConsistentCasingInFileNames shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/include shape=tsconfig.json value=src",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/incremental shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-capsule-that-kept-its-own-accessors by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/module shape=tsconfig.json value=NodeNext",
+    "bound-lock/1 at=witness:a-capsule-that-kept-its-own-accessors by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/moduleResolution shape=tsconfig.json value=NodeNext",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noFallthroughCasesInSwitch shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noImplicitOverride shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noImplicitReturns shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/outDir shape=tsconfig.json value=dist",
+    "bound-lock/1 at=witness:a-capsule-that-kept-its-own-accessors by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/rewriteRelativeImportExtensions shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/rootDir shape=tsconfig.json value=src",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/skipLibCheck shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/strict shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/target shape=tsconfig.json value=ES2020",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/tsBuildInfoFile shape=tsconfig.json value=.cache/tsbuildinfo",
+    "bound-lock/1 about=\"the spaces a JSON page indents each level by\" at=witness:a-json-indent-spelled-in-code by=owner form=alphabet measure=id role=writes scope=form/style/json/indent value=2"
+   ],
+   "regions": {}
+  },
+  "root:topos-github": {
+   "lines": [
+    "bound-lock/1 at=witness:a-forge-written-in-one-file by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/allowImportingTsExtensions shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/declaration shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/esModuleInterop shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/forceConsistentCasingInFileNames shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/include shape=tsconfig.json value=src",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/incremental shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-forge-written-in-one-file by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/module shape=tsconfig.json value=NodeNext",
+    "bound-lock/1 at=witness:a-forge-written-in-one-file by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/moduleResolution shape=tsconfig.json value=NodeNext",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noFallthroughCasesInSwitch shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noImplicitOverride shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noImplicitReturns shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/outDir shape=tsconfig.json value=dist",
+    "bound-lock/1 at=witness:a-forge-written-in-one-file by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/rewriteRelativeImportExtensions shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/rootDir shape=tsconfig.json value=src",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/skipLibCheck shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/strict shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/target shape=tsconfig.json value=ES2020",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/tsBuildInfoFile shape=tsconfig.json value=.cache/tsbuildinfo",
+    "bound-lock/1 about=\"the spaces a JSON page indents each level by\" at=witness:a-json-indent-spelled-in-code by=owner form=alphabet measure=id role=writes scope=form/style/json/indent value=2"
+   ],
+   "regions": {}
+  },
+  "root:verify": {
+   "lines": [
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/allowImportingTsExtensions shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/declaration shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/esModuleInterop shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/forceConsistentCasingInFileNames shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/include shape=tsconfig.json value=src",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/incremental shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/module shape=tsconfig.json value=NodeNext",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/moduleResolution shape=tsconfig.json value=NodeNext",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noFallthroughCasesInSwitch shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noImplicitOverride shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noImplicitReturns shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/outDir shape=tsconfig.json value=dist",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/rewriteRelativeImportExtensions shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/rootDir shape=tsconfig.json value=src",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/skipLibCheck shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/strict shape=tsconfig.json value=true",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/target shape=tsconfig.json value=ES2020",
+    "bound-lock/1 at=policy:build by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/tsBuildInfoFile shape=tsconfig.json value=.cache/tsbuildinfo",
+    "bound-lock/1 about=\"the spaces a JSON page indents each level by\" at=witness:a-json-indent-spelled-in-code by=owner form=alphabet measure=id role=writes scope=form/style/json/indent value=2"
+   ],
+   "regions": {}
+  },
+  "root:topos-node-no-indent": {
+   "lines": [
+    "bound-lock/1 at=witness:a-capsule-that-kept-its-own-accessors by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/allowImportingTsExtensions shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/declaration shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/esModuleInterop shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/forceConsistentCasingInFileNames shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/include shape=tsconfig.json value=src",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/incremental shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-capsule-that-kept-its-own-accessors by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/module shape=tsconfig.json value=NodeNext",
+    "bound-lock/1 at=witness:a-capsule-that-kept-its-own-accessors by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/moduleResolution shape=tsconfig.json value=NodeNext",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noFallthroughCasesInSwitch shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noImplicitOverride shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/noImplicitReturns shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/outDir shape=tsconfig.json value=dist",
+    "bound-lock/1 at=witness:a-capsule-that-kept-its-own-accessors by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/rewriteRelativeImportExtensions shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/rootDir shape=tsconfig.json value=src",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/skipLibCheck shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/strict shape=tsconfig.json value=true",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/target shape=tsconfig.json value=ES2020",
+    "bound-lock/1 at=witness:a-topos-that-was-not-a-place by=target form=alphabet measure=id needs=tsconfig.json role=writes scope=build/tsBuildInfoFile shape=tsconfig.json value=.cache/tsbuildinfo"
+   ],
+   "regions": {}
+  }
+ },
+ "cases": [
+  {
+   "name": "root:obligations · build@3 · tsconfig.json",
+   "world": "root:obligations",
+   "request": {
+    "region": "build",
+    "at": 3,
+    "shape": "tsconfig.json",
+    "name": "obligations",
+    "reads": [
+     "form/style/json/indent",
+     "build/**"
+    ]
+   },
+   "expected": [
+    "{",
+    "  \"compilerOptions\": {",
+    "    \"declaration\": true,",
+    "    \"incremental\": true,",
+    "    \"isolatedModules\": true,",
+    "    \"module\": \"Node16\",",
+    "    \"outDir\": \"dist\",",
+    "    \"removeComments\": true,",
+    "    \"rewriteRelativeImportExtensions\": true,",
+    "    \"rootDir\": \"src\",",
+    "    \"strict\": true,",
+    "    \"target\": \"ES2022\",",
+    "    \"tsBuildInfoFile\": \".cache/tsbuildinfo\",",
+    "    \"verbatimModuleSyntax\": true",
+    "  },",
+    "  \"include\": [",
+    "    \"src\"",
+    "  ]",
+    "}"
+   ]
+  },
+  {
+   "name": "root:topos-node · build@3 · tsconfig.json",
+   "world": "root:topos-node",
+   "request": {
+    "region": "build",
+    "at": 3,
+    "shape": "tsconfig.json",
+    "name": "topos-node",
+    "reads": [
+     "form/style/json/indent",
+     "build/**"
+    ]
+   },
+   "expected": [
+    "{",
+    "  \"compilerOptions\": {",
+    "    \"allowImportingTsExtensions\": true,",
+    "    \"declaration\": true,",
+    "    \"esModuleInterop\": true,",
+    "    \"forceConsistentCasingInFileNames\": true,",
+    "    \"incremental\": true,",
+    "    \"module\": \"NodeNext\",",
+    "    \"moduleResolution\": \"NodeNext\",",
+    "    \"noFallthroughCasesInSwitch\": true,",
+    "    \"noImplicitOverride\": true,",
+    "    \"noImplicitReturns\": true,",
+    "    \"outDir\": \"dist\",",
+    "    \"rewriteRelativeImportExtensions\": true,",
+    "    \"rootDir\": \"src\",",
+    "    \"skipLibCheck\": true,",
+    "    \"strict\": true,",
+    "    \"target\": \"ES2020\",",
+    "    \"tsBuildInfoFile\": \".cache/tsbuildinfo\"",
+    "  },",
+    "  \"include\": [",
+    "    \"src\"",
+    "  ]",
+    "}"
+   ]
+  },
+  {
+   "name": "root:topos-github · build@3 · tsconfig.json",
+   "world": "root:topos-github",
+   "request": {
+    "region": "build",
+    "at": 3,
+    "shape": "tsconfig.json",
+    "name": "topos-github",
+    "reads": [
+     "form/style/json/indent",
+     "build/**"
+    ]
+   },
+   "expected": [
+    "{",
+    "  \"compilerOptions\": {",
+    "    \"allowImportingTsExtensions\": true,",
+    "    \"declaration\": true,",
+    "    \"esModuleInterop\": true,",
+    "    \"forceConsistentCasingInFileNames\": true,",
+    "    \"incremental\": true,",
+    "    \"module\": \"NodeNext\",",
+    "    \"moduleResolution\": \"NodeNext\",",
+    "    \"noFallthroughCasesInSwitch\": true,",
+    "    \"noImplicitOverride\": true,",
+    "    \"noImplicitReturns\": true,",
+    "    \"outDir\": \"dist\",",
+    "    \"rewriteRelativeImportExtensions\": true,",
+    "    \"rootDir\": \"src\",",
+    "    \"skipLibCheck\": true,",
+    "    \"strict\": true,",
+    "    \"target\": \"ES2020\",",
+    "    \"tsBuildInfoFile\": \".cache/tsbuildinfo\"",
+    "  },",
+    "  \"include\": [",
+    "    \"src\"",
+    "  ]",
+    "}"
+   ]
+  },
+  {
+   "name": "root:verify · build@3 · tsconfig.json",
+   "world": "root:verify",
+   "request": {
+    "region": "build",
+    "at": 3,
+    "shape": "tsconfig.json",
+    "name": "verify",
+    "reads": [
+     "form/style/json/indent",
+     "build/**"
+    ]
+   },
+   "expected": [
+    "{",
+    "  \"compilerOptions\": {",
+    "    \"allowImportingTsExtensions\": true,",
+    "    \"declaration\": true,",
+    "    \"esModuleInterop\": true,",
+    "    \"forceConsistentCasingInFileNames\": true,",
+    "    \"incremental\": true,",
+    "    \"module\": \"NodeNext\",",
+    "    \"moduleResolution\": \"NodeNext\",",
+    "    \"noFallthroughCasesInSwitch\": true,",
+    "    \"noImplicitOverride\": true,",
+    "    \"noImplicitReturns\": true,",
+    "    \"outDir\": \"dist\",",
+    "    \"rewriteRelativeImportExtensions\": true,",
+    "    \"rootDir\": \"src\",",
+    "    \"skipLibCheck\": true,",
+    "    \"strict\": true,",
+    "    \"target\": \"ES2020\",",
+    "    \"tsBuildInfoFile\": \".cache/tsbuildinfo\"",
+    "  },",
+    "  \"include\": [",
+    "    \"src\"",
+    "  ]",
+    "}"
+   ]
+  },
+  {
+   "name": "root:topos-node · no indent line: the page renders without the attribute",
+   "world": "root:topos-node-no-indent",
+   "request": {
+    "region": "build",
+    "at": 3,
+    "shape": "tsconfig.json",
+    "name": "topos-node",
+    "reads": [
+     "form/style/json/indent",
+     "build/**"
+    ]
+   },
+   "expected": [
+    "{\"compilerOptions\":{\"allowImportingTsExtensions\":true,\"declaration\":true,\"esModuleInterop\":true,\"forceConsistentCasingInFileNames\":true,\"incremental\":true,\"module\":\"NodeNext\",\"moduleResolution\":\"NodeNext\",\"noFallthroughCasesInSwitch\":true,\"noImplicitOverride\":true,\"noImplicitReturns\":true,\"outDir\":\"dist\",\"rewriteRelativeImportExtensions\":true,\"rootDir\":\"src\",\"skipLibCheck\":true,\"strict\":true,\"target\":\"ES2020\",\"tsBuildInfoFile\":\".cache/tsbuildinfo\"},\"include\":[\"src\"]}"
+   ]
+  }
+ ]
+}
