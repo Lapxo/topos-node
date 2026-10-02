@@ -13,6 +13,7 @@ A package is the lines that name it. Two manifests come from one lock, and the b
 Add to your lock:
 sources/topos-node value=github:Lapxo/topos-node
 uses/topos-node sha256:<release digest>
+https://github.com/Lapxo/topos-node/releases
 Fetch the release asset, verify its sha256 equals the uses/ line, place it in bound/cas/blobs/. Fold: its pages appear.
 open: line/install needs=host/resolve — when bound resolves sources/ itself, the fetch line leaves the page by fold.
 
