@@ -1,6 +1,6 @@
 {
   "name": "@lapxo/topos-node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "What a node package is, rendered from its lines: the two manifests one lock makes, and how it builds.",
   "type": "module",
