@@ -30,7 +30,7 @@ export const packaged = (asked: Asked): readonly string[] => {
     ...(side === undefined ? {} : { sideEffects: truth(side) }), engines: { node: at(asked, 'engines') },
     exports: { ...Object.fromEntries(subpaths.map(([sub, built]) => [sub === '' ? '.' : `./${sub}`, resolved(built)])), [`./${asked.shape}`]: `./${asked.shape}` },
     ...(bins.length ? { bin: Object.fromEntries(bins.map(([name, built]) => [name, `./${built}.js`])) } : {}),
-    files: listed(asked, 'audit/wire/ships'), scripts: Object.fromEntries(under(asked, 'scripts').filter(([name]) => name !== '')),
+    files: listed(asked, 'wire/ships').length ? listed(asked, 'wire/ships') : listed(asked, 'audit/wire/ships'), scripts: Object.fromEntries(under(asked, 'scripts').filter(([name]) => name !== '')),
     ...(at(asked, 'dependencies') === undefined ? {} : { dependencies: versioned(at(asked, 'dependencies')) }),
     ...(at(asked, 'devDependencies') === undefined ? {} : { devDependencies: versioned(at(asked, 'devDependencies')) }),
   });
